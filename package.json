@@ -1,0 +1,20 @@
+{
+  "name": "presenta-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@presenta/lib": "^0.1.2",
+    "prettier": "^2.1.2",
+    "webpack": "^5.4.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  }
+}
